@@ -36,7 +36,7 @@ Here’s a glimpse of the project in action:
   </tr>
 </table>
 
-Replace the image URLs above with your own images from GitHub uploads if the links change.
+
 
 ---
 
