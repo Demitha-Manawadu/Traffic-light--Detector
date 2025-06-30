@@ -16,8 +16,8 @@ Here’s a glimpse of the project in action:
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/9d3675f7-9a50-4706-b5ab-fa528a1a919b/4c6cd9d3-020d-4995-8a60-215946b45c6c.png" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/f922bfc3-f22c-4af3-bda0-5574d255da83/a9da273f-62bd-481e-97b5-28e671b7851d.png" width="300"/></td>
+    <td><img src="images/1.png width="300"/></td>
+    <td><img src="images/2.png" width="300"/></td>
   </tr>
   <tr>
     <td align="center">Training Loss Graph</td>
@@ -27,8 +27,8 @@ Here’s a glimpse of the project in action:
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/2dff8f84-5033-4b9b-985e-2c85b8ec1b1c/WhatsApp%20Image%202025-06-30%20at%2016.50.43_f518e8f6.jpg" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/7efbfb99-e38d-4f28-85d9-29a356a46024/WhatsApp%20Image%202025-06-30%20at%2016.51.59_976077a3.jpg" width="300"/></td>
+    <td><img src="images/3.png" width="300"/></td>
+    <td><img src="images/4.png" width="300"/></td>
   </tr>
   <tr>
     <td align="center">Detection Example 1</td>
