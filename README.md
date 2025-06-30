@@ -16,11 +16,11 @@ Here’s a glimpse of the project in action:
 
 <table>
   <tr>
-    <td><img src="images/1.png width="300"/></td>
+    <td><img src="images/1.png" width="300"/></td>
     <td><img src="images/2.png" width="300"/></td>
   </tr>
   <tr>
-    <td align="center">Training Loss Graph</td>
+    <td align="center">Training model</td>
     <td align="center">mAP Curve during Training</td>
   </tr>
 </table>
